@@ -1,0 +1,49 @@
+.foto_principal {
+    
+    border: 2px double #0c0c0c;
+    border-style: solid;
+    border-radius: 0% 50% 0% 50%;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    margin-left: 200px; 
+    background-color: darkkhaki;
+  
+   
+}
+
+body {
+
+    background: rgb(153, 147, 147);
+}
+
+h1 {
+    text-shadow: 2px 2px 5px rgb(250, 248, 131);
+    color:rgb(5, 5, 5);
+    ;
+}
+
+h2 {
+    border: rgb(205,133,63) solid;
+    color:rgb(15, 14, 14);
+    margin-block-end: 0px;
+
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 560px
+    ;
+    font-weight: bold
+}
+ 
+h3{
+
+    color:rgb(15, 14, 14);
+}
+
+ul {
+
+    color: rgb(17, 16, 16);
+}

@@ -1,0 +1,19 @@
+body {
+    background: #cfcfcf;
+} 
+
+p {
+    color: #464545;
+}
+.foto_principal {
+    margin: 30px 30px 30px 30px;
+    /*margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 100px;*/
+    border:5px double #ffffff;
+    border-radius:10% 60% 60% 10%;
+    
+    border-style: solid ridge solid ridge;
+    width: 200px;
+    
+}
